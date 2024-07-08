@@ -1,0 +1,24 @@
+C:\Users\YUSUF\source\repos\İnternet Cafe\İnternet Cafe\bin\Debug\İnternet Cafe.exe.config
+C:\Users\YUSUF\source\repos\İnternet Cafe\İnternet Cafe\bin\Debug\İnternet Cafe.exe
+C:\Users\YUSUF\source\repos\İnternet Cafe\İnternet Cafe\bin\Debug\İnternet Cafe.pdb
+C:\Users\YUSUF\source\repos\İnternet Cafe\İnternet Cafe\obj\Debug\İnternet Cafe.csproj.AssemblyReference.cache
+C:\Users\YUSUF\source\repos\İnternet Cafe\İnternet Cafe\obj\Debug\İnternet_Cafe.frmSatis.resources
+C:\Users\YUSUF\source\repos\İnternet Cafe\İnternet Cafe\obj\Debug\İnternet_Cafe.Properties.Resources.resources
+C:\Users\YUSUF\source\repos\İnternet Cafe\İnternet Cafe\obj\Debug\İnternet Cafe.csproj.GenerateResource.cache
+C:\Users\YUSUF\source\repos\İnternet Cafe\İnternet Cafe\obj\Debug\İnternet Cafe.csproj.CoreCompileInputs.cache
+C:\Users\YUSUF\source\repos\İnternet Cafe\İnternet Cafe\obj\Debug\İnternet Cafe.exe
+C:\Users\YUSUF\source\repos\İnternet Cafe\İnternet Cafe\obj\Debug\İnternet Cafe.pdb
+C:\Users\YUSUF\source\repos\İnternet Cafe\İnternet Cafe\obj\Debug\İnternet_Cafe.frmMasaKapat.resources
+C:\Users\cakir\OneDrive\Masaüstü\İnternet Cafe\İnternet Cafe\bin\Debug\İnternet Cafe.exe.config
+C:\Users\cakir\OneDrive\Masaüstü\İnternet Cafe\İnternet Cafe\bin\Debug\İnternet Cafe.exe
+C:\Users\cakir\OneDrive\Masaüstü\İnternet Cafe\İnternet Cafe\bin\Debug\İnternet Cafe.pdb
+C:\Users\cakir\OneDrive\Masaüstü\İnternet Cafe\İnternet Cafe\obj\Debug\İnternet Cafe.csproj.AssemblyReference.cache
+C:\Users\cakir\OneDrive\Masaüstü\İnternet Cafe\İnternet Cafe\obj\Debug\İnternet_Cafe.frmMasaKapat.resources
+C:\Users\cakir\OneDrive\Masaüstü\İnternet Cafe\İnternet Cafe\obj\Debug\İnternet_Cafe.frmSatis.resources
+C:\Users\cakir\OneDrive\Masaüstü\İnternet Cafe\İnternet Cafe\obj\Debug\İnternet_Cafe.Properties.Resources.resources
+C:\Users\cakir\OneDrive\Masaüstü\İnternet Cafe\İnternet Cafe\obj\Debug\İnternet Cafe.csproj.GenerateResource.cache
+C:\Users\cakir\OneDrive\Masaüstü\İnternet Cafe\İnternet Cafe\obj\Debug\İnternet Cafe.csproj.CoreCompileInputs.cache
+C:\Users\cakir\OneDrive\Masaüstü\İnternet Cafe\İnternet Cafe\obj\Debug\İnternet Cafe.exe
+C:\Users\cakir\OneDrive\Masaüstü\İnternet Cafe\İnternet Cafe\obj\Debug\İnternet Cafe.pdb
+C:\Users\cakir\OneDrive\Masaüstü\İnternet Cafe\İnternet Cafe\obj\Debug\İnternet_Cafe.frmKullanici.resources
+C:\Users\cakir\OneDrive\Masaüstü\İnternet Cafe\İnternet Cafe\obj\Debug\İnternet_Cafe.FrmSatıslarıListele.resources
